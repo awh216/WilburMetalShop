@@ -33,7 +33,3 @@ bool CPTUProgramDlg::FindPTU(u_short port, const char * Destaddress){
 
     return 1;
 }
-
-
-
-// I wonder if this will work 
